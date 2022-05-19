@@ -1,0 +1,50 @@
+Subject: Doctor's Appointment
+From: whitfield.thomas@oops.net
+To: oops_tech@oops.net
+Cc:
+Bcc:
+Date: Tue, 16 Mar 2021 07:06:07 +0000
+Message-ID: <161587836700.22130.9215469841025303349@oops.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6391648843111394984=="
+
+--===============6391648843111394984==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+
+All,
+
+I have a denist's appointment @ 8:30 am today --and will return after the appointment around 9:30am.
+
+Cheers,
+Thomas
+
+Cordially,
+Thomas L. Whitfield
+OOPS Inc.
+793 Zachary Avenue Apt. 245
+South Michael, MN 85586
+Tel: 456-220-2602
+
+--===============6391648843111394984==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+	<p>All,</p>
+
+	<p>I have a denist&#8217;s appointment @ 8:30 am today &#8212;and will return after the appointment around 9:30am.</p>
+
+	<p>Cheers,<br />
+Thomas</p>
+
+	<p>Cordially,<br />
+Thomas L. Whitfield<br />
+OOPS Inc.<br />
+793 Zachary Avenue Apt. 245<br />
+South Michael, MN 85586<br />
+Tel: 456-220-2602</p>
+
+--===============6391648843111394984==--
